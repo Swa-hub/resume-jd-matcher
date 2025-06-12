@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 streamlit
 pdfplumber
 docx2txt
 scikit-learn
 sentence-transformers
 openai
+=======
+streamlit
+pdfplumber
+docx2txt
+scikit-learn
+sentence-transformers
+openai
+>>>>>>> 3cdf37e4ee0a591301714971c8857bfd303dbdaf
 dotenv
