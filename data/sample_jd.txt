@@ -1,0 +1,26 @@
+Job Title: Software Engineer - Machine Learning
+
+Company: TechNova AI Pvt Ltd
+
+Job Description:
+We are looking for a highly motivated Software Engineer with a strong background in Machine Learning and Python development. The ideal candidate will be responsible for developing and deploying scalable ML models and integrating them into production-grade applications.
+
+Responsibilities:
+- Design, develop, and deploy ML models using Python and relevant frameworks.
+- Collaborate with data scientists to preprocess and clean datasets.
+- Build REST APIs to serve ML models.
+- Optimize code for performance and scalability.
+- Work with tools such as Docker, Git, and cloud platforms (AWS/GCP).
+
+Requirements:
+- Bachelor's degree in Computer Science or related field.
+- Proficient in Python, scikit-learn, and pandas.
+- Experience with at least one deep learning framework (TensorFlow, PyTorch).
+- Familiarity with ML lifecycle tools (MLflow, DVC).
+- Strong understanding of software engineering best practices.
+- Excellent problem-solving and communication skills.
+
+Preferred:
+- Experience with NLP or Computer Vision.
+- Knowledge of FastAPI or Flask.
+- Prior experience in deploying ML models on cloud platforms.
